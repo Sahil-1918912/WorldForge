@@ -33,3 +33,5 @@ crashlytics-build.properties
 /[Ss]creenshots/
 /Captures/
 /[Rr]ecordings/*.webm
+
+*.zip
