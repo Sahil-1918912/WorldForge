@@ -7,7 +7,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /[Mm]emoryCaptures/
-/[Rr]ecordings/
+/[Rr]ecordings/*.webm
 *.csproj
 *.sln
 *.slnx
@@ -32,4 +32,4 @@ crashlytics-build.properties
 # Local screenshots / captures
 /[Ss]creenshots/
 /Captures/
-/[Rr]ecordings/
+/[Rr]ecordings/*.webm
