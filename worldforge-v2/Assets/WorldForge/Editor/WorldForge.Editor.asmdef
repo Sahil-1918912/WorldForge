@@ -1,0 +1,32 @@
+{
+    "name": "WorldForge.Editor",
+    "rootNamespace": "WorldForge.EditorTools",
+    "references": [
+        "WorldForge.Runtime",
+        "Unity.InputSystem",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Core.Editor",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Universal.Editor",
+        "Unity.Recorder.Editor",
+        "Unity.Recorder",
+        "Unity.Recorder.Base"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.recorder",
+            "expression": "5.0.0",
+            "define": "WORLDFORGE_RECORDER"
+        }
+    ],
+    "noEngineReferences": false
+}
